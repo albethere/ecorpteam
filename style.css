@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #0f0;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+
+a {
+    color: #0f0;
+}
+
+pre {
+    font-size: 14px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
